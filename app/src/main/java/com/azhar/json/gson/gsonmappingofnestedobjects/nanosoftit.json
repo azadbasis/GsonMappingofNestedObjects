@@ -1,0 +1,22 @@
+{
+  "name": "Nano Information Technology Ltd",
+  "owner": {
+    "name": "Azharul Islam",
+    "address": {
+      "street": "North Badda",
+      "houseNumber": "84/A",
+      "city": "dhaka",
+      "country": "Bnagladesh"
+    }
+  },
+  "cook": {
+    "name": "shuhel vie",
+    "age": 24,
+    "salery": 6777
+  },
+  "waiter": {
+    "name": "Shuhel vie",
+    "age": 23,
+    "salery": 9000
+  }
+}

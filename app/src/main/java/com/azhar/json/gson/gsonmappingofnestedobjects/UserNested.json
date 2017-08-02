@@ -1,0 +1,17 @@
+{
+  "name": "Azharul Islam",
+  "email": "azadbasis@gmail.com",
+  "age": 34,
+  "isDeveloper": true,
+  "userAddress": {
+    "street": "North badda",
+    "houseNumber": "80/cha",
+    "city": "dhaka",
+    "country": "Bnagladesh"
+  }
+
+}
+
+
+
+
